@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1465426363 source:c:\users\user\documents\programmation\tetris\main.cpp
+	<iostream>
+	"Menu.hpp"
+	"GameManager.hpp"
+	"SFML/Graphics.hpp"
+
+1465427661 c:\users\user\documents\programmation\tetris\menu.hpp
+	<iostream>
+	<string>
+	"Button.hpp"
+	"SFML/Graphics.hpp"
+
+1465426271 source:c:\users\user\documents\programmation\tetris\menu.cpp
+	<iostream>
+	"Menu.hpp"
+
+1465427766 source:c:\users\user\documents\programmation\tetris\gamemanager.cpp
+	"GameManager.hpp"
+
+1465427743 c:\users\user\documents\programmation\tetris\gamemanager.hpp
+	<iostream>
+	<string>
+	"SFML/Graphics.hpp"
+	"Menu.hpp"
+
+1465427464 c:\users\user\documents\programmation\tetris\button.hpp
+	<iostream>
+	<string>
+	"SFML/Graphics.hpp"
+
+1465427450 source:c:\users\user\documents\programmation\tetris\button.cpp
+	"Button.hpp"
+
