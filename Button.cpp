@@ -3,7 +3,9 @@
 using namespace std;
 using namespace sf;
 
-//Morceau indigeste, on demande le path
+/* On demande le path,
+   la position des 3 états possibles de chaque bouton sur la feuille,
+   ainsi que leur position sur la fenêtre */
 Button::Button(string spritesSheetPath,
                IntRect releasedTextureRect, IntRect hoveredTextureRect, IntRect pressedTextureRect,
                Vector2f position)
